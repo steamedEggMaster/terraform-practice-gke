@@ -21,6 +21,6 @@
 저는 Terraform을 사용하시는 실제 개발자분을 보시고 정말 대단하시다는 생각을 했습니다. <br>
 개발부터 CICD까지 해내시는 모습을 보며 저도 그렇게 되어야겠다 다짐했습니다. <br>
 정말 어려워보이지만 하나하나 이해하며 `terraform apply` 에 성공해보려 합니다.
-
-### 첫번째 목표 : `terraform apply` 성공하기
+<br>
+### 목표 : `terraform apply` 성공하기
 기록을 적은 노션 : (https://www.notion.so/GKE-terraform-apply-1289ac17facf800497b2cd2ddbe70cfb)
