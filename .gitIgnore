@@ -1,0 +1,7 @@
+# .gitignore
+.terraform/
+plan.txt
+tfplan 
+terraform.tfvars
+gachonpractice.json
+stagingNamespace.yaml
